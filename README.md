@@ -62,4 +62,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ## 📫 Contact
 
 For inquiries or feedback, reach out to me on [GitHub](https://github.com/zavaultraz).
-```
+
