@@ -13,9 +13,8 @@ Welcome to the **BOOK SHELF API**! This project provides a robust API for managi
 ## 📦 Technologies Used
 
 - **Node.js**: JavaScript runtime for building scalable server-side applications.
-- **Express**: Fast and minimalist web framework for Node.js.
-- **MongoDB**: NoSQL database for storing book data.
-- **JWT**: JSON Web Tokens for secure authentication.
+- **Java Script**: Best programing language
+
 
 ## 💻 Getting Started
 
